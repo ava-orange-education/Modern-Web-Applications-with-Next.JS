@@ -13,8 +13,8 @@ function BooksSearch(props) {
     event.preventDefault();
     const bookName = nameInputRef.current.value;
     const authorName = authorNameInputRef.current.value;
-    console.log('book name ->', bookName, ' author name  ->', authorName);
-    //props.onSearch(selectedYear, selectedMonth);
+    // console.log('book name ->', bookName, ' author name  ->', authorName);
+    // props.onSearch(selectedYear, selectedMonth);
   }
 
   return (
