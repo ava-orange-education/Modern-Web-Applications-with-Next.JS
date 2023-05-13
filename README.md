@@ -12,7 +12,7 @@ To run this application locally, please follow these steps:
    git clone https://github.com/OrangeAVA/Building-Scalable-Web-Applications-with-Next.js-and-React.git
    ```
 
-2. switch branch to chapter_7 Navigate to the project directory:
+2.  Navigate to the project directory:
 
    ```bash
    cd simple-todo-app
