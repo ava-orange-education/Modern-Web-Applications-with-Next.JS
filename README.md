@@ -12,7 +12,6 @@ This repository demonstrates the implementation of a RESTful API and a GraphQL A
 ## Technologies Used
 
 - Next.js
-- Express.js
 - Apollo Server (for GraphQL)
 - RESTful API conventions
 
