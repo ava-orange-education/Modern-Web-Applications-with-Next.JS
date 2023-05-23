@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import { TodoContext } from '../../store/TodoContext';
 
 const TodoItem = ({ id, title }) => {
-  const { todos, addTodo, removeTodo, editTodo } = useContext(TodoContext);
+  const { todos, removeTodo, editTodo } = useContext(TodoContext);
   const [editMode, setEditMode] = useState(false);
   const [editedTitle, setEditedTitle] = useState(title);
 
@@ -22,7 +22,7 @@ const TodoItem = ({ id, title }) => {
         }
         return todo;
       });
-      editTodo(updatedTodos);
+      editTodo(updatedTodos, { id, title: editedTitle });
       setEditMode(false);
     }
   };
