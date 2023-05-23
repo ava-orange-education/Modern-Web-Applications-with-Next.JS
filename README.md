@@ -37,8 +37,6 @@ npm install
 npm run dev
 ```
 
-## Open your browser and navigate to `http://localhost:3000` to access the example UI.
-
 ## RESTful API Endpoints
 
 - `GET /api/todo`: Retrieve all todos.
