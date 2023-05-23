@@ -23,7 +23,6 @@ This repository demonstrates the implementation of a RESTful API and a GraphQL A
 ```bash
 git clone https://github.com/your-username/nextjs-api-example.git
 ```
-````
 
 ## Install dependencies:
 
