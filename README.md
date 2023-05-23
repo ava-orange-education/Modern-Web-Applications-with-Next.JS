@@ -41,10 +41,10 @@ npm run dev
 
 ## RESTful API Endpoints
 
-- `GET /api/todos`: Retrieve all todos.
-- `POST /api/todos`: Add a new todo.
-- `PUT /api/todos`: Update a todo.
-- `DELETE /api/todos`: Delete a todo.
+- `GET /api/todo`: Retrieve all todos.
+- `POST /api/todo`: Add a new todo.
+- `PUT /api/todo`: Update a todo.
+- `DELETE /api/todo`: Delete a todo.
 
 ## GraphQL API Endpoint
 
