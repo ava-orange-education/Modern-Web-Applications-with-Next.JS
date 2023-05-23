@@ -1,7 +1,4 @@
-Sure! Here's an example README file for a GitHub repository that showcases the implementation of a RESTful API and a GraphQL API using Next.js:
-
-````markdown
-# RESTful and GraphQL API Implementation with Next.js
+## RESTful and GraphQL API Implementation with Next.js
 
 This repository demonstrates the implementation of a RESTful API and a GraphQL API using Next.js. It showcases how to build APIs for performing CRUD operations on a todo list.
 
