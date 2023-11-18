@@ -1,4 +1,4 @@
-<h1>Building Scalable Web Applications with Next.js and React</h1>
+<h1>Modern Web Applications with Next.JS</h1>
   
   <h2>Table of Contents</h2>
   <ul>
