@@ -10,7 +10,7 @@
   </ul>
 
   <h2 id="introduction">Introduction</h2>
-  <p>"Building Scalable Web Applications with Next.js and React" is a comprehensive guide that explores the process of building scalable and performant web applications using the Next.js framework and React library. The book covers various topics such as server-side rendering, API integration, routing, state management, optimization techniques, and more.</p>
+  <p>"Modern Web Applications with Next.JS" is a comprehensive guide that explores the process of building scalable and performant web applications using the Next.js framework and React library. The book covers various topics such as server-side rendering, API integration, routing, state management, optimization techniques, and more.</p>
 
   <p>This repository serves as a companion to the book, providing code examples, demos, and additional resources to support your learning journey. You can explore the examples provided here and refer to the book for detailed explanations and guidance.</p>
 
