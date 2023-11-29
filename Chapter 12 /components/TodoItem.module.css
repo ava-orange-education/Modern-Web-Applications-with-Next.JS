@@ -1,0 +1,12 @@
+.item {
+  background: black;
+  margin-bottom: 20px;
+}
+
+.checkbox {
+    color: white !important;
+}
+
+.delete {
+    color: rgb(235, 81, 81);
+}

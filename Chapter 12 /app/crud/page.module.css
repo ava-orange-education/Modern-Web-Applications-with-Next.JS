@@ -1,0 +1,30 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.go-button {
+  background: green;
+  padding: 10px;
+}
+
+.input {
+  width: 250px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.button {
+  padding: 12px;
+  font-weight: 600;
+  background-color: lightblue;
+}
+
+.container {
+  display: flex;
+  gap: 12px;
+}

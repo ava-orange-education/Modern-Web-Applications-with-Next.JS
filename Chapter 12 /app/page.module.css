@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.go-button {
+  background: green;
+  padding: 10px;
+}
